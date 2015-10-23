@@ -30,5 +30,6 @@
 @section('response')
   <br> 
   {!! isset($users) ? $users : '' !!}
+  <br>
 @stop
  
