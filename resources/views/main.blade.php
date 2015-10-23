@@ -12,6 +12,7 @@
   <h2><a href="/ipsum">Lorem Ipsum Generator</a></h2>
   <br>
   <h2><a href="/users">User Generator</a></h2>
+  <br>
 @stop
 
  
