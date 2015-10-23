@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+<!--    <meta charset="UTF-8"> -->
+<!--    {{ HTML::style('css/style.css'); }} -->
+    @section('title')
+<!--      <title>{{{$title}}}</title> -->
+    @show
+  </head>
+  <body>
+      @section('navigation')
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+      @show
+      <div class="container">
+          @yield('content')
+      </div>
+  </body>
+<!--  {{ HTML::script('js/script.js'); }} -->
+</html>
+
