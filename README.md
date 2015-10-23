@@ -10,5 +10,4 @@ IPSUM / User Generator
 1.2
 
 # Screencast URL
-http://
-
+http://screencast.com/t/slQR9UZPJCY
