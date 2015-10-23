@@ -1,0 +1,29 @@
+
+
+@import url(//fonts.googleapis.com/css?family=Kameron);
+@import url(//fonts.googleapis.com/css?family=Sanchez);
+
+.container {
+	margin:0;
+        font-family:'Sanchez', serif;
+        text-align:center;
+        color: #000000;
+  	text-shadow: 4px 4px 4px #aaa;
+ }
+
+.ipsum {
+	width: 30px;
+ }
+
+.response {
+	margin-left: auto;
+	margin-right: auto;
+	font-family:'Kameron', serif;
+	color: #000000;
+ }
+
+h1 {	font-size: 48px;
+        margin: 16px 0 0 0; }
+
+
+
