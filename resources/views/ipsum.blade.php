@@ -21,5 +21,6 @@
 @section('response')
   <br> 
   {!! isset($ipsum) ? $ipsum : '' !!}
+  <br>
 @stop
  
